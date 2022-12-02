@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "teorver_4", "teorver_4\teorver_4.csproj", "{E1ACF3EF-C0BB-4E38-91CA-7F58CE541071}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E1ACF3EF-C0BB-4E38-91CA-7F58CE541071}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1ACF3EF-C0BB-4E38-91CA-7F58CE541071}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1ACF3EF-C0BB-4E38-91CA-7F58CE541071}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1ACF3EF-C0BB-4E38-91CA-7F58CE541071}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {12777DD1-91CB-4D38-936A-FC1FED8B7644}
+	EndGlobalSection
+EndGlobal
